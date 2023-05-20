@@ -1,0 +1,19 @@
+{
+  "name": "avatar-bithomp",
+  "version": "1.0.0",
+  "description": "Bithomp hash icon generation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bithomp AB",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "hashicon": "^0.3.0"
+  }
+}
