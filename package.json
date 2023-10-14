@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "Bithomp hash icon generation",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bithomp/avatar-bithomp"
+  },
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
